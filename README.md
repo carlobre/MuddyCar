@@ -1,7 +1,7 @@
 ---
 # MUDDY
 ---
-![](https://github.com/carlobre/MuddyCar/raw/master/Images/Logo/Equipo.png)
+![](https://github.com/carlobre/MuddyCar/raw/master/Logo/Equipo.png)
 ---
 The muddyland team invites you to know the PROJECT OF HIGH ENERGY EFFICIENCY VEHICLE
 
